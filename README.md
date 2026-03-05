@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Author
 
-**[Your Name / Organization]**
+**[Moiz-Ali-Moomin]**
 - GitHub: [@Moiz-Ali-Moomin](https://github.com/Moiz-Ali-Moomin/routeflux-vpn)
 - Twitter: [@MoizAliMoomin](https://twitter.com/MoizAliMoomin)
 
