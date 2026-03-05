@@ -159,8 +159,8 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Author
 
 **[Your Name / Organization]**
-- GitHub: [@yourusername](https://github.com/Moiz-Ali-Moomin/routeflux-vpn)
-- Twitter: [@yourhandle](https://twitter.com/MoizAliMoomin)
+- GitHub: [@Moiz-Ali-Moomin](https://github.com/Moiz-Ali-Moomin/routeflux-vpn)
+- Twitter: [@MoizAliMoomin](https://twitter.com/MoizAliMoomin)
 
 ---
 *Built with Flutter & Native Android Networking*
