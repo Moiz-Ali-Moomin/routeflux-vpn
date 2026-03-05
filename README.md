@@ -133,7 +133,7 @@ routeflux_vpn/
 *(Placeholder: Add high-quality application screenshots here)*
 <br>
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" alt="Home Screen" width="250"/>
+  <img src="flutter_01.png" alt="Home Screen" width="250"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://via.placeholder.com/250x500.png?text=Connected+Dashboard" alt="Connected Dashboard" width="250"/>
   &nbsp;&nbsp;&nbsp;
